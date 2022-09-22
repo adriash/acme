@@ -14,12 +14,12 @@ author:
 menu:
   main: 
     - identifier: about 
-      name: Acerca de 
-      url: /about 
+      name: Sobre mí
+      url: /about
       weight: 100 
     - identifier: contact
       name: Contacto 
-      url: /contacto 
+      url: /contactos
       weight: 200 
     - identifier: curriculum 
       name: Curriculum 
