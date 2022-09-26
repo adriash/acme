@@ -27,7 +27,11 @@ menu:
       weight: 300
     - identifier: viajes
       name: Viajes
-      url: /viajes/pirineos.md 
+      url: /viajes/viajes
+      weight: 300
+    - identifier: pirineos
+      name: Pirineos
+      url: /viajes/pirineo 
       weight: 300
 params: 
   color: "#4f46e5"
