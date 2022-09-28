@@ -26,8 +26,8 @@ menu:
       url: /curriculum 
       weight: 300
     - identifier: viajes
-      name: Viajes
-      url: /viajes/viajes
+      name: Blog
+      url: /blog
       weight: 300
 params: 
   color: "#4f46e5"
