@@ -10,4 +10,4 @@ Ya que mi sabor favorito es el limón, tengo el helado o tarta de limón como mi
 
 
 
-{{< imagenes_viajes src="https://img.saboresdehoy.com/receta/617/brazo-de-gitano.jpg">}}
+[![brazo de gitano](https://img.saboresdehoy.com/receta/617/brazo-de-gitano.jpg)]
