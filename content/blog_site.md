@@ -7,7 +7,8 @@ draft: true
 
 En esta página subire diferentes aspectos de mi vida que me gustaria compartir
 
-
 + [Postres](../blog/postres/)
 + [Series](../blog/series/)
 + [Viajes](../viajes/viajes/)
+
+[![imagen blog](/blog.png)]

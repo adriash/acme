@@ -27,7 +27,7 @@ menu:
       weight: 300
     - identifier: viajes
       name: Blog
-      url: /blog
+      url: /blog_site
       weight: 300
       identifier: pelis
       name: Peliculas
