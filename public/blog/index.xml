@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Acme Corporation</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:33 +0200</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>postres</title>
+      <link>https://example.org/blog/postres/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/blog/postres/</guid>
+      <description>Mis postres favoritos Ya que mi sabor favorito es el limón, tengo el helado o tarta de limón como mis preferidos, pero el helado de contesa tampoco se queda atras. Entre postres caseros recomiendo probar el brazo de gitano hecho con chocolate preparado al baño maria.
+[]</description>
+    </item>
+    
+    <item>
+      <title>series</title>
+      <link>https://example.org/blog/series/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/blog/series/</guid>
+      <description>Mis series favoritas Entre mis series favoritas se encuentran las que tratan de temas sobre naturales, y las de comedia, por eso tengo rick y morty entre mis favoritas. Entre otras tambien me gustan Stranger things y Bojack Horseman.
+[]</description>
+    </item>
+    
+  </channel>
+</rss>

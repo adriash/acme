@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on Acme Corporation</title>
+    <link>https://example.org/viajes/</link>
+    <description>Recent content in Viajes on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:33 +0200</lastBuildDate><atom:link href="https://example.org/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Italia</title>
+      <link>https://example.org/viajes/italia/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/italia/</guid>
+      <description>Mi viaje a Italia El país europeo con forma de bota me ofrecio vistas monumentales como el coliseo de Roma además de una cultura muy sociable y una dieta mediterranea propia del sur de europa</description>
+    </item>
+    
+    <item>
+      <title>Perú</title>
+      <link>https://example.org/viajes/peru/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/peru/</guid>
+      <description>Mi viaje a Perú Perú es un país de Sudamérica que abarca una sección del bosque del Amazonas y Machu Picchu, una antigua ciudad inca en las alturas de los Andes. Su cultura y riqueza gastronómica es muy destacable.</description>
+    </item>
+    
+    <item>
+      <title>Pirineos</title>
+      <link>https://example.org/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/pirineo/</guid>
+      <description>Mi viaje a los pirineos Este viaje a los Pirineos, en el que visitamos los Pirineos catalanes y aragoneses durante 8 días, representa nuestro estilo de viaje favorito: formato roadtrip + senderismo, excelente gastronomía, naturaleza impresionante y arte románico.</description>
+    </item>
+    
+    <item>
+      <title>Viajes</title>
+      <link>https://example.org/viajes/viajes/</link>
+      <pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/viajes/</guid>
+      <description>Mis viajes Pirineos Perú Italia </description>
+    </item>
+    
+  </channel>
+</rss>

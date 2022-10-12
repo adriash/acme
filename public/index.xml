@@ -1,0 +1,116 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:55:33 +0200</lastBuildDate>
+    
+        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Pelis</title>
+<link>https://example.org/pelis/</link>
+<pubDate>Wed, 12 Oct 2022 13:43:54 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/pelis/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Italia</title>
+<link>https://example.org/viajes/italia/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/italia/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Perú</title>
+<link>https://example.org/viajes/peru/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/peru/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Pirineos</title>
+<link>https://example.org/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>postres</title>
+<link>https://example.org/blog/postres/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/blog/postres/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>series</title>
+<link>https://example.org/blog/series/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/blog/series/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Blog</title>
+<link>https://example.org/blog/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/blog/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>https://example.org/contactos/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/contactos/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>https://example.org/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Sobre mi</title>
+<link>https://example.org/about/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Viajes</title>
+<link>https://example.org/viajes/viajes/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/viajes/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
