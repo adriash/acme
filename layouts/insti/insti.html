@@ -1,0 +1,18 @@
+{{- define "main"}}
+
+{{ $institutos := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCtaInFtz0Y7hOP9_tWTvrwn5vMqeKcBk9qWZLIsp4v1rB3GiM178iRHckOn4BC2s9pkW6GfRSqiYK/pub?output=csv" }}
+
+    <ul class="institutos">
+        {{range after 1 $institutos }}
+        {{$var1:= index . 6}}
+        {{$var2:= "Instituto de Educación Secundaria (IES)"}}
+        {{$var3:= index . 2}}
+        {{$var4:= "Zaragoza"}}
+        {{if and (eq $var1 $var2) (eq $var3 $var4a) }}
+        <li>{{index . 2}} -  {{index . 5}} ({{index . 4}}) {{index . 6}}</li>
+        {{end}}
+
+        
+        {{end}}
+    </ul>
+{{- end }}

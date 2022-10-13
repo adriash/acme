@@ -1,0 +1,37 @@
+{{- define "main"}}
+
+{{- if .Title }}
+<header class="page-header">
+<h1>{{ .Title }}</h1>
+{{- if .Description }}
+<div class="post-description">
+    {{ .Description | markdownify }}
+</div>
+{{- end }}
+</header>
+{{- end }}
+
+<div class="post-content">
+    {{ .Content }}
+    <br/>
+    <div class="post-description">
+        <table>
+        <tr>
+            <th><b>Título</b></th>
+            <th><b>Valoración</b></th>
+            <th><b>Enlace</b></th>
+        </tr>
+        {{- range .Site.Data.pelis_info }}
+        <tr>
+            <td><img src="{{.img }}" alt="{{.titulo}}"></td>
+            <td>{{ .titulo }}</td>
+            <td></td>
+            <td>⭐ {{ .rating }}</td>
+            <td></td>
+            <td><a href="https://www.imdb.com{{.url}}" target="_blank">IMDB</a></td>
+        </tr>
+        {{- end }}
+            </table>
+    </div>
+</div>
+{{- end }}
